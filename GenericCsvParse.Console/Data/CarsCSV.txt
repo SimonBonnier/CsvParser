@@ -1,0 +1,4 @@
+﻿Id;Brand;Model;Year;CO2
+1;Volvo;S60;2001;3
+2;Saab;9-3;2003;5
+3;Mercedes;20T;2020;3,5

@@ -1,0 +1,4 @@
+﻿Id;FirstName;LastName;IdentificationNumber
+1;Simon;Bonnier;123
+2;Kim;Larsson;321
+3;Test;Testsson;4321
